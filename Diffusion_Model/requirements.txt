@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/diffusers.git
+controlnet_aux==0.0.7
+transformers
+accelerate
+safetensors
+numpy==1.26.1
+pypher
