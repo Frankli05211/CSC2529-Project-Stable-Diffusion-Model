@@ -1,0 +1,5 @@
+/path/to/1998.jpg
+/path/to/1949.jpg
+/path/to/77.jpg
+/path/to/969.jpg
+/path/to/785.jpg
